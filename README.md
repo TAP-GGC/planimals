@@ -24,3 +24,19 @@ Instructors: Dr. Anca Doloc Mihu and Dr. Cindy Robertson
 Teammates: Joshua “Mart” Miller, Sarah Pak, Ruth Whitehouse, Ahkeelah Lindo 
 
 ## Publications
+
+
+
+CREATE Symposium Poster
+[Create workshop poster.pdf](https://github.com/TechAmbassadors-GGC/planimals/files/6418632/Create.workshop.poster.pdf)
+
+## Outreach
+
+1. TAP Expo, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+
+## Technology
+
+The technology used for this project was an online coding program called Scratch. Scratch uses block coding, which means programs are made with premade chunks of code. This makes it easier for people new to programming because there is little typing of code involved.
+
+## Project Setup
