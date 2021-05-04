@@ -39,4 +39,8 @@ CREATE Symposium Poster
 
 The technology used for this project was an online coding program called Scratch. Scratch uses block coding, which means programs are made with premade chunks of code. This makes it easier for people new to programming because there is little typing of code involved.
 
+Checkout https://scratch.mit.edu/ to try it out!
+
 ## Project Setup
+
+
