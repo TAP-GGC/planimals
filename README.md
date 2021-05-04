@@ -27,6 +27,7 @@ Teammates: Joshua “Mart” Miller, Sarah Pak, Ruth Whitehouse, Ahkeelah Lindo
 
 
 
+
 CREATE Symposium Poster
 [Create workshop poster.pdf](https://github.com/TechAmbassadors-GGC/planimals/files/6418632/Create.workshop.poster.pdf)
 
@@ -43,4 +44,7 @@ Checkout https://scratch.mit.edu/ to try it out!
 
 ## Project Setup
 
+Go to:
+https://scratch.mit.edu/projects/511937523/
 
+try out our game and inspect the code!
