@@ -3,13 +3,13 @@ Spring 2021 Tap project
 
 ## Abstract
 
-Title: Planimals:  A game that emphasizes the Importance of programming statements
+### Title: Planimals:  A game that emphasizes the Importance of programming statements
 
 Instructors: Dr. Anca Doloc Mihu and Dr. Cindy Robertson
 
 Teammates: Joshua “Mart” Miller, Sarah Pak, Ruth Whitehouse, Ahkeelah Lindo 
 
-Description:
+### Description:
 
 We are part of the TAP program at GGC, and our objective is to teach programming skills through building a fun game. The platform we’re choosing to design this game on is SCRATCH. The name of our game is Planimals because it focuses on the life cycles of plants and animals. 
 
