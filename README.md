@@ -1,4 +1,4 @@
-# Planimals:  A game that emphasizes the Importance of programming statements
+# Planimals:  A game that emphasizes the importance of programming statements
 Spring 2021 Tap project
 
 ## Description
