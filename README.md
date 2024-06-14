@@ -1,15 +1,6 @@
 # Planimals:  A game that emphasizes the importance of programming statements
-
 ## About
-
-We are part of the TAP program at GGC, and our objective is to teach programming skills through building a fun game. The platform we’re choosing to design this game on is SCRATCH. The name of our game is Planimals because it focuses on the life cycles of plants and animals. 
-
-The game has a grow and regress feature; if a plant/animal were to touch an undesired object, they would regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird. 
-
-One of the main elements that make this game challenging is that the path to winning is not a straight line. Everyone will have an individual experience depending on their skill set and how fast they catch onto the game. While it might take one person a couple of minutes to win, it may take somebody else longer. This adds a resonance of frustration and eagerness to develop your skills, change your approach and ultimately win the game. 
-
-We hope that you get the chance to experience and enjoy our game at the STARS event!
-
+The main objective of this project is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. The workshop that goes along with this project has participants dress up and code an unused sprite within the pre-existing game. Participants learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
 ## Description
 
 * Difficulty Level: Easy
@@ -24,6 +15,7 @@ We hope that you get the chance to experience and enjoy our game at the STARS ev
 
 
 ## Team
+
 * Joshua “Mart” Miller
 * Sarah Pak
 * Ruth Whitehouse
