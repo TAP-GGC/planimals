@@ -45,7 +45,7 @@ CREATE Symposium Poster
 2. Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## Similar Projects
-* If you're interested in another project with the Makey Makey, please check out [Monster Makey](https://github.com/TAP-GGC/MonsterMakey).
+* If you're interested in another project that uses Scratch, please check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles).
 
 ## Technology
 
