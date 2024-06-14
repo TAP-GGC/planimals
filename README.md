@@ -3,7 +3,7 @@
 The objective of this workshop is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. This workshop has participants code an unused sprite within a pre-existing game as they learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
 ## Description
 
-* Difficulty Level: Easy
+* Difficulty Level: Intermediate
 * Target Audience: 6th grade - College
 * Duration of Workshop: 1 hour 
 * Needed Materials: Computers with keyboards, Access to Scratch.com OR CS First Scratch.
