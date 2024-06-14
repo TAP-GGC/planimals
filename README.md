@@ -26,6 +26,11 @@ The main objective of this workshop is to make coding entertaining for participa
 * Dr. Anca Doloc Mihu
 * Dr. Cindy Robertson
 
+## Game Description
+The game has a grow and regress feature; if a plant/animal touches an undesired object, they will regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird.
+
+One of the main elements that make this game challenging is that the path to winning is not a straight line. Everyone will have an individual experience depending on their skill set and how fast they catch onto the game. While it might take one person a couple of minutes to win, it may take somebody else longer. This adds a resonance of frustration and eagerness to develop your skills, change your approach and ultimately win the game.
+
 ## Publications
 
 
@@ -39,11 +44,20 @@ CREATE Symposium Poster
 1. TAP Expo, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
+## Similar Projects
+...
+
 ## Technology
 
-The technology used for this project was an online coding program called Scratch. Scratch uses block coding, which means programs are made with premade chunks of code. This makes it easier for people new to programming because there is little typing of code involved.
+### Scratch
+<img src = "Media/Technology/scratch logo.png" width="200" height="200">
 
-Checkout https://scratch.mit.edu/ to try it out!
+* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
+* Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax.
+
+<img src = "Media/Technology/block-based language.png" width ="400" height="200">
+The code on the left and the right do the exact same thing.
 
 ## Project Setup
 
