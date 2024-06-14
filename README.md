@@ -58,9 +58,18 @@ CREATE Symposium Poster
 
 <img src = "media/Technology/block-based language.png" width ="400" height="200">
 
-## Project Setup
+## Project Setup/Installation 
+You don't need a Scratch account to follow along with the lesson or to play the game. 
+### Accessing the game 
 
 Go to:
 https://scratch.mit.edu/projects/511937523/
 
-try out our game and inspect the code!
+### Accessing the game through CS First
+...
+## Short Demo Instructions 
+
+## Workshop Instructions 
+
+## Usage
+
