@@ -57,7 +57,6 @@ CREATE Symposium Poster
 * We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax.
 
 <img src = "media/Technology/block-based language.png" width ="400" height="200">
-The code on the left and the right do the exact same thing.
 
 ## Project Setup
 
