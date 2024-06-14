@@ -50,7 +50,7 @@ CREATE Symposium Poster
 ## Technology
 
 ### Scratch
-<img src = "Media/Technology/scratch logo.png" width="200" height="200">
+<img src = "media/Technology/scratch logo.png" width="200" height="200">
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
 * Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
