@@ -1,6 +1,6 @@
 # Planimals:  A game that emphasizes the importance of programming statements
 ## About
-The main objective of this project is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. The workshop that goes along with this project has participants dress up and code an unused sprite within the pre-existing game. Participants learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
+The main objective of this workshop is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. This workshop has participants code an unused sprite within a pre-existing game as they learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
 ## Description
 
 * Difficulty Level: Easy
