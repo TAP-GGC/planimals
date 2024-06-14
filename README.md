@@ -56,7 +56,7 @@ CREATE Symposium Poster
 * Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
 * We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax.
 
-<img src = "Media/Technology/block-based language.png" width ="400" height="200">
+<img src = "media/Technology/block-based language.png" width ="400" height="200">
 The code on the left and the right do the exact same thing.
 
 ## Project Setup
