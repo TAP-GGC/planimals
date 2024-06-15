@@ -60,12 +60,12 @@ CREATE Symposium Poster
 
 ## Project Setup/Installation 
 You don't need a Scratch account to follow along with the lesson or to play the game. 
-### Accessing the game 
+### Accessing the Game through the Scratch Website
 
 Go to:
 https://scratch.mit.edu/projects/511937523/
 
-### Accessing the game through CS First
+### Accessing the Game through CS First
 ...
 ## Short Demo Instructions 
 
