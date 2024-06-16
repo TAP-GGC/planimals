@@ -70,14 +70,14 @@ https://scratch.mit.edu/projects/511937523/
 The file can be found in the code folder of this repository, or accessed directly through the link above. Click on 'view raw' to download.
 
 2. Uploading the file to CS First
-Open CS First, click the plus sign, and select New Project
+Open CS First, click the plus sign, and select New Project.
 <img src = "media/Technology/cs first new project.png" width="200">
 
-Click 'File' 
+* Click 'File'
 
 <img src = "media/Technology/csfirst file.png" width="500">
 
-Click 'Load from your computer' and select the sb3 file that was downloaded earlier
+* Click 'Load from your computer' and select the sb3 file that was downloaded earlier.
 
 <img src = "media/Technology/csfirst load from computer.png" width="200">
 
