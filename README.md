@@ -82,6 +82,7 @@ Click 'Load from your computer' and select the sb3 file that was downloaded earl
 <img src = "media/Technology/csfirst load from computer.png" width="200">
 
 3. Sharing file with Class
+   
 At the moment, there is no way to share custom sb3 files to a classroom through CS First, so the file will have to be downloaded onto a flash drive and uploaded to every individual computer. You can contact your administration to see if they will allow it to be uploaded to all students accounts.
 
 ## Short Demo Instructions 
