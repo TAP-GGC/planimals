@@ -66,7 +66,7 @@ Go to:
 https://scratch.mit.edu/projects/511937523/
 
 ### Accessing the Game through CS First
-1. [download the sb3 file](https://github.com/jvalram/planimals/blob/main/Code/PlanimalsWorkshop.sb3) for this workshop 
+1. [Download the sb3 file](https://github.com/jvalram/planimals/blob/main/Code/PlanimalsWorkshop.sb3) for this workshop 
 The file can be found in the code folder of this repository, or accessed directly through the link above.
 
 2. Uploading the file to CS First
