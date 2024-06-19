@@ -72,7 +72,8 @@ https://scratch.mit.edu/projects/511937523/
    
 The file can be found in the code folder of this repository, or accessed directly through the link above. Click on 'view raw' to download.
 
-3. Uploading the file to CS First
+2. Uploading the file to CS First
+   
 Open CS First, click the plus sign, and select New Project.
 <img src = "media/Technology/cs first new project.png" width="200">
 
