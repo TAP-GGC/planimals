@@ -11,3 +11,4 @@ Click on 'view raw' to download (make sure to download a copy to a flash drive i
 
 *	Open CS First, click the plus sign, and select New Project.
 
+<img src = "media/Technology/CS FIRST/cs first new project.png" width="200">
