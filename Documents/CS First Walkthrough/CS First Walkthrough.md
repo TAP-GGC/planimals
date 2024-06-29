@@ -16,7 +16,7 @@ Click on 'view raw' to download (make sure to download a copy to a flash drive i
 Open CS First, click the plus sign, and select New Project.
   
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/cs first new project.png" width="250">
+<img src = "/Documents/CS First Walkthrough/CS Walkthrough Assets/cs first new project.png" width="250">
 </p>
 
 - Click File
@@ -25,7 +25,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/csfirst file.png" width="700">
+<img src = "/Documents/CS First Walkthrough/CS Walkthrough Assets/csfirst file.png" width="700">
 </p>
 
 
@@ -33,7 +33,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/csfirst load from computer.png" width="250">
+<img src = "/Documents/CS First Walkthrough/CS Walkthrough Assets/csfirst load from computer.png" width="250">
 </p>
 
 >TEACHERS: Feel free to work through the workshop on your own to familiarize yourself with the lesson!
