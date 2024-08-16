@@ -13,7 +13,9 @@ This workshop has participants code an unused sprite within a pre-existing game 
 * Scratch is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing. Through this project, we hope to increase interest and participation in STEM; and show that learning how to program can be fun and creative.
 * [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 
-[Commercial Video will go here]
+[Commercial Video](https://github.com/user-attachments/assets/b1126403-8272-46df-abeb-81e0fcd8bca6)
+
+
 
 
 ## Team
