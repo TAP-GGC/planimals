@@ -73,7 +73,7 @@ https://scratch.mit.edu/projects/511937523/
 
 ### Accessing the Game through CS First
 
-[Click here to view how to access game through CS First](/documents/CS%20First%20Walkthrough/CS%20First%20Walkthrough.md)
+[Click here to view how to access game through CS First](/Documents/CS%20First%20Walkthrough/CS%20First%20Walkthrough.md)
 
 ## Short Demo Instructions 
 
