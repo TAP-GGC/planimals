@@ -27,7 +27,7 @@ Open CS First, click the plus sign, and select New Project.
 </p>
 
 
-- Click 'Load from your computer' and select the sb3 file that was downloaded earlier. We recommend saving it to the downloads folder so it can be accessed more easily.
+- Click 'Load from your computer' and select the sb3 file that was downloaded earlier. We recommend saving it to the downloads folder so it can be easily accessed.
 
 
 <p align="center">
