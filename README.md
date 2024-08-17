@@ -1,16 +1,22 @@
-# Planimals:  A Game that Emphasizes the Importance of Programming Statements
-## About
+<p align="center">
+  <img alt="Planimals Logo" src="https://github.com/TAP-GGC/planimals/blob/main/Media/planimal%20new%20loko-transparent.png?raw=true" height="400" />
+  <h1 align="center">Planimals</h1>
+  <p align="center">A Game that Emphasizes the Importance of Programming Statements</p>
+</p>
+
+## :loudspeaker: About
 The objective of this workshop is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. 
 
 This workshop has participants code an unused sprite within a pre-existing game as they learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
-## Description
+
+## :bulb: Description
 
 * Difficulty Level: Intermediate
 * Target Audience: 6th grade - College
 * Duration of Workshop: 1 hour 
 * Needed Materials: Computers with keyboards, Access to Scratch.com OR CS First Scratch.
 * Learning outcomes: The primary goal of this project is to teach participants the importance of programming statements and the fundamentals of programming.
-* Scratch is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing. Through this project, we hope to increase interest and participation in STEM; and show that learning how to program can be fun and creative.
+* Scratch is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing.
 * [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 
 [Commercial Video](https://github.com/user-attachments/assets/b1126403-8272-46df-abeb-81e0fcd8bca6)
@@ -18,24 +24,24 @@ This workshop has participants code an unused sprite within a pre-existing game 
 
 
 
-## Team
+## :pencil2: Team
 
 * Joshua “Mart” Miller
 * Sarah Pak
 * Ruth Whitehouse
 * Ahkeelah Lindo
 
-## Advisors
+## :mortar_board: Advisors
 
 * Dr. Anca Doloc Mihu
 * Dr. Cindy Robertson
 
-## Game Description
+## :page_with_curl: Game Description
 The game has a grow and regress feature; if a plant/animal touches an undesired object, they will regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird.
 
 One of the main elements that make this game challenging is that the path to winning is not a straight line. Everyone will have an individual experience depending on their skill set and how fast they catch onto the game. While it might take one person a couple of minutes to win, it may take somebody else longer. This adds a resonance of frustration and eagerness to develop your skills, change your approach and ultimately win the game.
 
-## Publications
+## :memo: Publications
 
 
 
@@ -43,15 +49,15 @@ One of the main elements that make this game challenging is that the path to win
 CREATE Symposium Poster
 [Create workshop poster.pdf](https://github.com/TechAmbassadors-GGC/planimals/files/6418632/Create.workshop.poster.pdf)
 
-## Outreach
+## :open_hands: Outreach
 
 1. TAP Expo, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
-## Similar Projects
+## :mag_right: Similar Projects
 * If you're interested in another project that uses Scratch, please check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles).
 
-## Technology
+## :computer: Technology
 
 ### Scratch
 <img src = "Media/Technology/scratch logo.png" width="200" height="200">
@@ -62,7 +68,7 @@ CREATE Symposium Poster
 
 <img src = "Media/Technology/block-based language.png" width ="400" height="200">
 
-## Project Setup/Installation 
+## :floppy_disk: Project Setup/Installation 
 
 ### Accessing the Game through the Scratch Website
 
