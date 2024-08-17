@@ -54,7 +54,7 @@ One of the main elements that make this game challenging is that the path to win
 2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-If you're interested in another project that uses Scratch, please check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles).
+If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
 
