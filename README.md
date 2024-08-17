@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Planimals Logo" src="https://github.com/TAP-GGC/planimals/blob/main/Media/planimal%20new%20loko-transparent.png?raw=true" height="300" />
+  <img alt="Planimals Logo" src="https://github.com/TAP-GGC/planimals/blob/main/Media/planimal%20new%20loko-transparent.png?raw=true" height="350" />
   <h1 align="center">Planimals</h1>
   <p align="center">A Game that Emphasizes the Importance of Programming Statements</p>
 </p>
