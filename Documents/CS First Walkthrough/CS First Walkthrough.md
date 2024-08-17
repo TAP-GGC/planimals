@@ -3,7 +3,7 @@
 ## Accessing the Workshop File Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
 
-### Step 1. Download the [.sb3](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3) file
+### Step 1. Download the [.sb3](https://github.com/TAP-GGC/planimals/blob/main/Code/%5BUPDATED%5D%20Planimals_Workshop.sb3) file
 
 <!--- INSERT YOUR OWN .sb3 FILE IN THE PARENTHESIS!! THIS IS 1/3 LINKS YOU MUST REPLACE--->
 
@@ -54,7 +54,7 @@ Here are a few alternative methods suggested by the CS First Customer Support Te
 
 ### Option 1: Sharing the file via Google Drive
 
-If you have a Google Drive/OneDrive account that is accessible to your classroom, you can take the downloaded [.sb3](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3) file and upload it somewhere that your students can easily access it. 
+If you have a Google Drive/OneDrive account that is accessible to your classroom, you can take the downloaded [.sb3](https://github.com/TAP-GGC/planimals/blob/main/Code/%5BUPDATED%5D%20Planimals_Workshop.sb3) file and upload it somewhere that your students can easily access it. 
 
 <!--- CONTRIBUTORS: REPLACE THIS LINK 2/3--->
 
@@ -63,7 +63,7 @@ Once they’ve downloaded the file, they can follow the same steps taken in Step
 ### Option 2: Sharing the File via Flash Drive
 
 <p align="center" >
-<b>The</b> <a href="https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3">.sb3</a> <b>file will have to be downloaded onto a flash drive and uploaded to EVERY individual computer.</b>
+<b>The</b> <a href="https://github.com/TAP-GGC/planimals/blob/main/Code/%5BUPDATED%5D%20Planimals_Workshop.sb3">.sb3</a> <b>file will have to be downloaded onto a flash drive and uploaded to EVERY individual computer.</b>
 </p> 
 
 <!--- CONTRIBUTORS: REPLACE THIS LINK 3/3 --->
