@@ -46,7 +46,7 @@ One of the main elements that make this game challenging is that the path to win
 
 
 
-[CREATE Symposium Poster](https://github.com/TechAmbassadors-GGC/planimals/files/6418632/Create.workshop.poster.pdf)
+[CREATE Symposium Poster](https://github.com/TAP-GGC/planimals/blob/main/Documents/Publications/Create%20workshop%20poster.pdf)
 
 ## :open_hands: Outreach
 
