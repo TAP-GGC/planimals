@@ -1,5 +1,3 @@
-# TEMPLATE ---- UPDATE .SB3 LINKS !!! REMOVE THIS LINE WHEN FINISHED
-
 ## Accessing the Workshop File Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
 
