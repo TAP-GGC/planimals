@@ -50,8 +50,8 @@ One of the main elements that make this game challenging is that the path to win
 
 ## :open_hands: Outreach
 
-1. TAP Expo, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 If you're interested in another project that uses Scratch, please check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles).
