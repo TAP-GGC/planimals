@@ -59,7 +59,7 @@ If you're interested in another project that uses Scratch, please check out [Spa
 ## :computer: Technology
 
 <p align="center">
-  <img src = "Media/Technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Scratch Logo" src = "Media/Technology/scratch logo.png" width="200" height="200"/>
 </p>
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
@@ -84,11 +84,12 @@ https://scratch.mit.edu/projects/511937523/
 
 [Click here to view how to access game through CS First](/Documents/CS%20First%20Walkthrough/CS%20First%20Walkthrough.md)
 
-## Short Demo Instructions 
+<details>
+<summary><h3><b><u>Demo Video</u></b></h3></summary>
 
 [Demo Video](https://github.com/user-attachments/assets/c1605fe8-f7e2-4b9e-b336-8fb364e39cec)
 
-
+</details>
 
 
 ## Workshop Instructions 
