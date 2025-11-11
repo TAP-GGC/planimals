@@ -78,11 +78,8 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 You don't need a Scratch account to follow along with the lesson or to play the game. 
 
 Go to:
-[https://scratch.mit.edu/projects/1062946612
-](https://scratch.mit.edu/projects/1062946612)
-### Accessing the Game through CS First
-
-[Click here to view how to access game through CS First](/Documents/CS%20First%20Walkthrough/CS%20First%20Walkthrough.md)
+[https://scratch.mit.edu/projects/1062971971/](https://scratch.mit.edu/projects/1062971971/)
+to try out the demo!
 
 <details>
 <summary><h3><b><u>Demo Video</u></b></h3></summary>
@@ -93,6 +90,7 @@ Go to:
 
 
 ## Workshop Instructions 
+STUDENT VER. : [https://scratch.mit.edu/projects/1164016013/](https://scratch.mit.edu/projects/1164016013/)
 
 ## Usage
 
